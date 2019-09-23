@@ -43,23 +43,23 @@ export default Home;
 ## API
 
 config
-| Property | Description | Default 
-| :-: | :-: | :-: |
-| count | count of points | 88 |
-| pointR	| radius of the point |	1 |
-| pointColor |  | 114, 114, 114|
-|pointOpacity |	transparency of points | 1 |
-| dist | maximum distance between two point | 6000 |
-| lineColor	|	| 0, 0, 0|
-|lineWidth | multiple of line width | 1 |
-| follow |	mouse follow |	true|
-| mouseDist |	distance between point and mouse |	20000|
+ Property | Description | Default 
+ :-: | :-: | :-: 
+ count | count of points | 88 
+ pointR	| radius of the point |	1 
+ pointColor |  | 114, 114, 114
+ pointOpacity |	transparency of points | 1 
+ dist | maximum distance between two point | 6000 
+ lineColor	|	| 0, 0, 0
+ lineWidth | multiple of line width | 1 
+ follow |	mouse follow |	true
+ mouseDist |	distance between point and mouse |	20000
 
 style 
 Support style attribute, default style as follows:
-| Property  |  Default |
-|:-:|:-:|
-| zIndex | -1 |
-| opacity | 1 |
-| display | block |
-| position | absolute |
+ Property  |  Default 
+ :-:|:-:
+ zIndex | -1 
+ opacity | 1 
+ display | block 
+ position | absolute 
