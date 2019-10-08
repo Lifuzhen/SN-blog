@@ -8,7 +8,7 @@
 css相关知识
 
 ### FCC
-freCodeCamp
+freeCodeCamp
 
 ### js
 js相关知识
