@@ -1,6 +1,6 @@
 
 ## 效果图
-![效果图](../assets/yueya.jpg)
+![效果图](../assets/css/yueya.jpg)
 
 ### 代码
 ```
